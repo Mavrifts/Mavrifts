@@ -1,11 +1,10 @@
 # 💫 About Me
 
-I'm a Computer Science student interested in how software, data, and intelligent systems can be used to solve real-world problems.
+I believe technology is at its best when it makes complex things simple.
 
-I enjoy learning from first principles, building practical projects, and exploring the intersection of technology, economics, and decision-making. My current interests include Artificial Intelligence, Machine Learning, Data Science, and the broader impact of technology on society.
+I'm a Computer Science student interested in AI, Machine Learning, and Data Science, with a curiosity for how technology shapes the way people live, learn, and make decisions. I enjoy learning from first principles and building projects that turn ideas into something useful.
 
-Outside of technical work, I'm also interested in languages and international education, with a long-term goal of pursuing further academic opportunities in Japan.
-
+Beyond code, I'm interested in economics, languages, and lifelong learning. My goal is to keep building meaningful things and continue my academic journey internationally, particularly in Japan.
 ---
 
 # 🎯 Current Focus
