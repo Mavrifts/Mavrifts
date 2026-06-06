@@ -5,6 +5,7 @@ I believe technology is at its best when it makes complex things simple.
 I'm a Computer Science student interested in AI, Machine Learning, and Data Science, with a curiosity for how technology shapes the way people live, learn, and make decisions. I enjoy learning from first principles and building projects that turn ideas into something useful.
 
 Beyond code, I'm interested in economics, languages, and lifelong learning. My goal is to keep building meaningful things and continue my academic journey internationally, particularly in Japan.
+
 ---
 
 # 🎯 Current Focus
