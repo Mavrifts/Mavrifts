@@ -1,5 +1,5 @@
 #  About Me:
-Currently exploring the intersection of computer science, biology, and data.<br><br>Learning how to think like an engineer and a scientist.<br><br>Always interested in discussing biology, data, Japanese learning, fitness, football, and complex systems.<br><br>Fun fact: My interests range from cells to data cells, lol.<br>
+Currently exploring the intersection of computer science, biology, and data.<br><br>Learning how to think like an engineer.
 
 
 ##  Socials:
